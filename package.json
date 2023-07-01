@@ -23,8 +23,5 @@
         "mongoose": "^5.9.21",
         "rootpath": "^0.1.2",
         "socket.io": "^4.2.0"
-    },
-    "engines": {
-        "node": "16.20.1"
-      }
+    }
 }
